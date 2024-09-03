@@ -16,7 +16,7 @@ This project is a classic Tic-Tac-Toe game built using HTML, CSS, and JavaScript
 
 - **Game Reset:** A button to clear the board and start a new game at any time.
 
-![WhatsApp Image 2024-09-03 at 2 11 53 PM](https://github.com/user-attachments/assets/e07b16c1-8f3e-47e9-bea8-fe7f381cb7a3) width="400" height="300"
+![WhatsApp Image 2024-09-03 at 2 11 53 PM](https://github.com/user-attachments/assets/e07b16c1-8f3e-47e9-bea8-fe7f381cb7a3) 
 
 ## How to Play
 
