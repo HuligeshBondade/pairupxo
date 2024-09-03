@@ -14,7 +14,7 @@ This project is a classic Tic-Tac-Toe game built using HTML, CSS, and JavaScript
 
 - **Game Reset:** A button to clear the board and start a new game at any time.
 
-<img src="https://github.com/user-attachments/assets/e07b16c1-8f3e-47e9-bea8-fe7f381cb7a3" alt="WhatsApp Image" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/e07b16c1-8f3e-47e9-bea8-fe7f381cb7a3" alt="tiktactoe" width="300" height="300">
 
 
 ## How to Play
