@@ -1,7 +1,5 @@
 # pairupxo
 
-## Overview
-
 This project is a classic Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The game offers both single-player and multiplayer modes, providing flexibility and fun for different types of players. The single-player mode includes two difficulty levels: simple and complex.
 
 ## Features
