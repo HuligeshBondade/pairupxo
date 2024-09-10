@@ -16,6 +16,7 @@ This project is a classic Tic-Tac-Toe game built using HTML, CSS, and JavaScript
 
 <img src="https://github.com/user-attachments/assets/e07b16c1-8f3e-47e9-bea8-fe7f381cb7a3" alt="tiktactoe" width="400" height="400">
 
+https://pairupxo.netlify.app/
 
 ## How to Play
 
